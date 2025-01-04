@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.banner_section{
+    width: 1400px;
+    margin: auto;
+    text-align: center;
+}
+
+.banner_heading{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 0;
+    font-size: 60px;
+}
+
+.banner_heading_two{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 0;
+}
+.btn{
+    padding: 17px 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    background: lightblue;
+    color: black;
+    border: 1px solid black;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.paragraph{
+    padding: 40px;
+    line-height: 35px;
+}
